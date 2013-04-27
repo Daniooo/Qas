@@ -9,3 +9,5 @@ dependend on tagged content.
 Using Qas provides a very easy way to put in a handful of different taggs
 and in return get fitting Questions from differnt sources back.
 
+
+This is my playground - you are very welcome to contribute, discuss and ... 
